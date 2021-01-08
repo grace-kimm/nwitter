@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 import App from "./components/App";
 import reportWebVitals from "./reportWebVitals";
-import * as firebase from "./firebase";
+import * as firebase from "./fbase";
 
 console.log(firebase);
 
